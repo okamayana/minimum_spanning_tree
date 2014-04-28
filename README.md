@@ -6,7 +6,7 @@ Simple program that takes in a weighted, connected, and bi-directional [graph](h
 
 The program takes its input in the form of a text file. The text file's first line is an integer, ranging from 1 to 26 inclusive, which denotes the number of vertices in the graph. The following lines would be rows of comma separated values which makes up a distance matrix how the vertices in the graph are connected.
 
-For the sake of simplicity, the vertices in the graph are assumed to be named A, B, C, D and so on, with the matrix representing them in that order, left-to-right and top-to-bottom (like in the distance matrix example shown previously).
+For the sake of simplicity, the vertices in the graph are assumed to be named A, B, C, D and so on, with the matrix representing them in that order, left-to-right and top-to-bottom.
 
 For example (the following input represents [this graph](http://i.imgur.com/ef5kdbx.png)):
 
