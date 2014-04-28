@@ -1,6 +1,8 @@
 # Minimum Spanning Tree
 
-Simple program that takes in a weighted, connected, and bi-directional [graph](http://en.wikipedia.org/wiki/Graph_theory) and outputs its (or one of) corresponding [minimum spanning tree](http://en.wikipedia.org/wiki/Minimum_spanning_tree) (MST).
+Simple Java program that takes in a weighted, connected, and bi-directional [graph](http://en.wikipedia.org/wiki/Graph_theory) and outputs its (or one of) corresponding [minimum spanning tree](http://en.wikipedia.org/wiki/Minimum_spanning_tree) (MST).
+
+This implementation uses [Prim's algorithm](http://en.wikipedia.org/wiki/Prim%27s_algorithm) to calculate the MST.
 
 ## Input
 
