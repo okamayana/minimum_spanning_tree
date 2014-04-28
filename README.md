@@ -1,2 +1,1 @@
-minimum_spanning_tree
-=====================
+# Minimum Spanning Tree
